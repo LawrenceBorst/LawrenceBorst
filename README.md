@@ -1,4 +1,4 @@
 <h2> Who am I?</h2>
-I'm Laurens Borst, once a savy mathematics bachelor and soon-to-be geeky comp sci masters. My strong suit and area of study is machine learning, although I like to do a little web development on the side.
+I'm Laurens Borst, mathematics and computer science graduate. I currently work as a software engineer.
 
-My main languages are Python, C++, Javascript, CSS, HTML and SQL.
+I like linguistics and language learning. I also enjoy writing music.
